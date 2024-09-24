@@ -43,6 +43,11 @@ const questions = [
     },
     {
         type: "input",
+        name: "credit",
+        message: "What resources did you use?"
+    },
+    {
+        type: "input",
         name: "name",
         message: "What is your name?"
     },

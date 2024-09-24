@@ -717,7 +717,7 @@ function generateMarkdown(data) {
   ## Usage
     ${data.usageInformation}
   ## Credits
-     Mutiple sources where referenced for this project including: https://shields.io/ for creating the badges, and https://choosealicense.com/appendix/ for license information. The website https://www.geeksforgeeks.org/ was also used as a refresher for some Javascript functions. https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide was used as a guide for this project as well.
+    ${data.credit}
   ## License
     ${licenseSection}
   ## Contribute
